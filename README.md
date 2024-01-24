@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on l7 dos tool <br>🌱 I’m currently learning **vb.net and C#**<br>💬 Ask me about **react**<br>
+🔭 I’m currently working on my own Portfolio Website <br>🌱 I’m currently learning **vb.net and C#**<br>💬 Ask me about **react**<br>
 
 
 ## 🌐 Socials:
